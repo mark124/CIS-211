@@ -1,5 +1,6 @@
 /* AbstractList
-*  Anderson, Franceschi
+   Anderson, Franceschi
+   Mark Johnson
 */
 
 public abstract class AbstractList
