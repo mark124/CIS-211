@@ -1,5 +1,6 @@
 /* Visualizer
-*  Anderson, Franceschi
+   Anderson, Franceschi
+   Mark Johnson
 */
 
 import javax.swing.*;
