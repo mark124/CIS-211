@@ -1,5 +1,6 @@
 /* Using GridLayout to organize our window
    Anderson, Franceschi
+   Mark Johnson
 */
 
 import javax.swing.*;
