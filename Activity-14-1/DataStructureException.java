@@ -1,5 +1,6 @@
-/* The DataStructureException class
+/*  The DataStructureException class
     Anderson, Franceschi
+    Mark Johnson
 */
 
 public class DataStructureException extends Exception
