@@ -1,5 +1,6 @@
 /** ArrayListPractice
     Anderson, Franceschi
+    Mark Johnson
 */
 
 import java.awt.*;
