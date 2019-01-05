@@ -1,6 +1,7 @@
-/**   BankAccount class, version 1
-*     Anderson, Franceschi
-*     Represents a generic bank account
+/*    BankAccount class, version 1
+      Anderson, Franceschi
+      Mark Johnson
+      Represents a generic bank account
 */
 import java.text.DecimalFormat;
 
