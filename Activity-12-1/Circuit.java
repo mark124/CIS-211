@@ -1,5 +1,6 @@
 /* Circuit - animates the circuit
    Anderson, Franceschi
+   Mark Johnson
 */
 
 import java.awt.Graphics;
