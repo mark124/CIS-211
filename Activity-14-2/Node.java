@@ -1,5 +1,6 @@
 /* Node
-*  Anderson, Franceschi
+   Anderson, Franceschi
+   Mark Johnson
 */
 
 public class Node
