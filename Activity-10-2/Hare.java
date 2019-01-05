@@ -1,6 +1,7 @@
-/** Hare class
-*   inherits from abstract Racer class
-*   Anderson, Franceschi
+/*  Hare class
+    inherits from abstract Racer class
+    Anderson, Franceschi
+    Mark Johnson
 */
 
 import java.awt.Graphics;
