@@ -1,5 +1,6 @@
 /* SavingsAccount class
    Anderson, Franceschi
+   Mark Johnson
 */
 
 import java.text.NumberFormat;
