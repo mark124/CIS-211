@@ -1,6 +1,7 @@
-/**  Racer class
-*    Abstract class intended for racer hierarchy
-*    Anderson. Franceschi
+/*   Racer class
+     Abstract class intended for racer hierarchy
+     Anderson. Franceschi
+     Mark Johnson
 */
 
 import java.awt.Graphics;
