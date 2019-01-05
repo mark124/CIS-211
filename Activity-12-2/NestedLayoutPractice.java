@@ -1,6 +1,7 @@
 /*  Practice using layouts
- Anderson, Franceschi
- */
+    Anderson, Franceschi
+    Mark Johnson
+*/
 
 import javax.swing.*;
 import java.awt.*;
