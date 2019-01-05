@@ -1,6 +1,7 @@
 /* HanoiClient
- *  Anderson, Franceschi
- */
+   Anderson, Franceschi
+   Mark Johnson
+*/
 
 import javax.swing.JOptionPane;
 import javax.swing.JFrame;
