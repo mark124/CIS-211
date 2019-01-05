@@ -1,6 +1,7 @@
 /* LinkList
- *  Anderson, Franceschi
- */
+   Anderson, Franceschi
+   Mark Johnson
+*/
 
 /**
  * this class is a concrete implementation of the AbstractList.
