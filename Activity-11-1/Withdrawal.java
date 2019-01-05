@@ -1,5 +1,6 @@
 /* Withdrawal class
    Anderson, Franceschi
+   Mark Johnson
 */
 
 import java.awt.Graphics;
