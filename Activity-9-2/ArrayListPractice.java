@@ -1,4 +1,4 @@
-/** ArrayListPractice
+/* ArrayListPractice
     Anderson, Franceschi
     Mark Johnson
 */
