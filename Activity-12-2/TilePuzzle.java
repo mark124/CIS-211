@@ -1,5 +1,6 @@
  /* TilePUzzle class
     Anderson, Franceschi
+    Mark Johnson
  */
 
  public class TilePuzzle
