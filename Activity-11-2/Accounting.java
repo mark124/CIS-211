@@ -1,6 +1,7 @@
 /* Accounting class
- Anderson, Franceschi
- */
+   Anderson, Franceschi
+   Mark Johnson
+*/
 
 import javax.swing.JOptionPane;
 import java.text.DecimalFormat;
