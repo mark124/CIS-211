@@ -1,6 +1,7 @@
-/**  Tortoise class
-*    inherits from abstract Racer class
-*    Anderson, Franceschi
+/*   Tortoise class
+     inherits from abstract Racer class
+     Anderson, Franceschi
+     Mark Johnson
 */
 
 import java.awt.Graphics;
