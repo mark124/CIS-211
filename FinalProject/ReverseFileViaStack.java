@@ -1,3 +1,7 @@
+/* Reverse File Stack
+   Mark Johnson
+*/
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
