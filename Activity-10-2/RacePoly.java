@@ -1,5 +1,6 @@
 /*  The Tortoise and the Hare Race
      Anderson, Franceschi
+     Mark Johnson
 */
 
 import java.awt.*;
