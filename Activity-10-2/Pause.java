@@ -1,5 +1,6 @@
 /* Pause class to pause applications
    Anderson, Franceschi
+   Mark Johnson
 */
 
 public class Pause
